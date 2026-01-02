@@ -86,20 +86,25 @@ me.say_hi()
 ### `> ./stats.sh`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pingArJun&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingArJun&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9"/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=pingArJun&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pingArJun&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9"/>
+  </picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=pingArJun&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9&cache_seconds=1800"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingArJun&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9"/>
+  </picture>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pingArJun&theme=chartreuse-dark&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=ff6600&currStreakLabel=00ff00" alt="GitHub Streak"/>
-</div>
 
----
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=pingArJun&theme=dark&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF6600&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=00FF00&sideNums=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
+  </a>
 
-### `> cat /var/log/activity.log`
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pingArJun&bg_color=0d1117&color=00ff00&line=00ff00&point=ff6600&area=true&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
