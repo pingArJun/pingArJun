@@ -10,9 +10,9 @@
 
 </div>
 
-<br>
-
-<img align="right" alt="Hacking" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ## `> whoami`
 
@@ -27,7 +27,6 @@ const hacker = {
 
     currently: "Hunting vulnerabilities",
     goal: "Making the internet safer",
-
     motto: "Hack to learn, not learn to hack"
 };
 ```
@@ -35,17 +34,26 @@ const hacker = {
 ## `> cat /etc/interests`
 
 ```
- ╔═══════════════════════════════════════════════════════════╗
- ║  🔓 Penetration Testing    ║  🐛 Bug Bounty Hunting       ║
- ║  🕵️ OSINT & Recon          ║  🔍 Vulnerability Research   ║
- ║  🛡️ Blue Team Defense      ║  ⚔️ Red Team Operations      ║
- ║  🌐 Web App Security       ║  🔐 Cryptography             ║
- ║  💉 SQL Injection          ║  🖥️ Network Exploitation     ║
- ║  🐚 Reverse Shell          ║  📱 Mobile Security          ║
- ╚═══════════════════════════════════════════════════════════╝
+🔓 Penetration Testing
+🐛 Bug Bounty Hunting
+🕵️ OSINT & Recon
+🔍 Vulnerability Research
+🛡️ Blue Team Defense
+⚔️ Red Team Operations
+🌐 Web App Security
+🔐 Cryptography
+💉 SQL Injection
+🐚 Reverse Shell
 ```
 
-<br clear="right"/>
+</td>
+<td width="45%" valign="top">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
