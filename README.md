@@ -10,11 +10,11 @@
 
 </div>
 
+## `> whoami`
+
 <table>
 <tr>
-<td width="55%" valign="top">
-
-## `> whoami`
+<td width="50%" valign="top">
 
 ```js
 const hacker = {
@@ -31,29 +31,27 @@ const hacker = {
 };
 ```
 
-## `> cat /etc/interests`
-
-```
-🔓 Penetration Testing
-🐛 Bug Bounty Hunting
-🕵️ OSINT & Recon
-🔍 Vulnerability Research
-🛡️ Blue Team Defense
-⚔️ Red Team Operations
-🌐 Web App Security
-🔐 Cryptography
-💉 SQL Injection
-🐚 Reverse Shell
-```
-
 </td>
-<td width="45%" valign="top">
+<td width="50%" valign="middle">
 
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="100%"/>
 
 </td>
 </tr>
 </table>
+
+## `> cat /etc/interests`
+
+```
+ ╔═══════════════════════════════════════════════════════════╗
+ ║  🔓 Penetration Testing    ║  🐛 Bug Bounty Hunting       ║
+ ║  🕵️ OSINT & Recon          ║  🔍 Vulnerability Research   ║
+ ║  🛡️ Blue Team Defense      ║  ⚔️ Red Team Operations      ║
+ ║  🌐 Web App Security       ║  🔐 Cryptography             ║
+ ║  💉 SQL Injection          ║  🖥️ Network Exploitation     ║
+ ║  🐚 Reverse Shell          ║  📱 Mobile Security          ║
+ ╚═══════════════════════════════════════════════════════════╝
+```
 
 ---
 
